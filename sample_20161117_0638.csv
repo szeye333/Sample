@@ -1,0 +1,4 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Task,Task Status,Task,Task Status,Task,Task Status
+3152423,Having a menu,menu,,,,epic,,,"Nov 17, 2016",,,,All the stories about having a menu,https://www.pivotaltracker.com/epic/show/3152423,,,,,,,
+134491295,View all the meal,menu,,,,feature,,unscheduled,"Nov 17, 2016",,,Sze Ye,,https://www.pivotaltracker.com/story/show/134491295,
+134491109,Add meal,menu,,,,feature,,unscheduled,"Nov 17, 2016",,,Sze Ye,"When the categories are selected, all the meals from those categories will be displayed. Ask customer for further clarification.",https://www.pivotaltracker.com/story/show/134491109,,Connect the database,not completed,Create UI,not completed,Create table to display images,not completed
